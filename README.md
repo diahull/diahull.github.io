@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="你的横幅图片链接" width="100%" />
+</p>
+
 # Hi there 👋
 
 ## About Me
